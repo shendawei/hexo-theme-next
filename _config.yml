@@ -105,6 +105,7 @@ menu:
   # - page: read
   #   directory: /read/
   #   icon: book
+  worklog: /categories/worklog/|| lock
 
 # Enable/Disable menu icons.
 menu_icons:
